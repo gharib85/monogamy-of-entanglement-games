@@ -1,23 +1,22 @@
-# NPAR
-## Version 0.0.1 - 20 September 2015
+# MoE
+## Version 0.0.1 - 25 September 2015
 
-NPAR is a set of MATLAB scripts that supplement the results of the article [2]. 
+MoE is a set of MATLAB scripts that supplement the results of the article [2]. 
 
 To run in MATLAB, add the ```/src/``` directory (including all sub-directories) to your current working directory. 
 
 ---
-NPAR is free software: you can redistribute it and/or modify
+MoE is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-NPAR is distributed in the hope that it will be useful,
+MoE is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with NPAR.  If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with MoE. If not, see <http://www.gnu.org/licenses/>.
 ---
 
 ## Dependencies
@@ -25,7 +24,7 @@ In order to run these scripts in MATLAB, you must also have CVX [3] and QETLAB [
 
 ## Description
 
-This set of scripts allows one to bound the classical, quantum, and non-signaling game values for monogamy of entanglement games.  
+This set of scripts allows one to bound the quantum game values for monogamy of entanglement games.  
 
 ## Examples
 
