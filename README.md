@@ -72,7 +72,7 @@ where the players benefit from using entanglement as described in [2].
 	  (arxiv:1210.4359)
 
 [2] "Extended nonlocal games and monogamy-of-entanglement games" - N. Johnston,
-     R. Mittal, V. Russo, J. Watrous. (arxiv:)
+     R. Mittal, V. Russo, J. Watrous. (arxiv:1510.02083)
 	 	 
 [3] CVX - (http://cvxr.com/cvx/)
 
